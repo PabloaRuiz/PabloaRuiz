@@ -4,7 +4,7 @@
 
 - 📝 [ Analista de Suporte/ Desenvolvedor](https://blpit.com.br/)
 
-- Jogador amador nas horas vagas    ![](https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white")
+- Jogador de video gaeme amador    ![](https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white")
 
 
 - 🌱 Analise e desenvolvimento de sistemas(1/6)
