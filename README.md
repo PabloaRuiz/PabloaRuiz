@@ -1,6 +1,6 @@
 ### Olá Sou o Pablo! 👋
 
-- 📝 [ Analista de Suporte/ Desenvolvedor](https://blpit.com.br/)
+- 💻  [ Analista de Suporte/ Desenvolvedor](https://blpit.com.br/)
 
 - Jogador de video gaeme amador    ![](https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white")
 
@@ -8,7 +8,4 @@
 
 - 👯 Apaixonado por desenvolvimento Web 
 
-- Me encontre hein
-
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white%link=https://www.linkedin.com/in/pablo-alessandro-ruiz-8173b3156/)](https://www.linkedin.com/in/pablo-alessandro-ruiz-8173b3156)
+ 💼  [Linkedin](https://www.linkedin.com/in/pablo-alessandro-ruiz-8173b3156/) 
