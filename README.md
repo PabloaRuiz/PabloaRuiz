@@ -1,6 +1,6 @@
 ### Olá Sou o Pablo! 👋
 
-- 💻 Analista de Suporte/ Desenvolvedor [Blp .it](https://blpit.com.br/)
+- 💻 Analista de Suporte/ Desenvolvedor @[BLP.IT](https://blpit.com.br/)
 
 - Jogador de video gaeme amador    ![](https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white")
 
