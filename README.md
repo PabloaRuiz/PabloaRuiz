@@ -2,8 +2,6 @@
 
 - 💻 Analista de Suporte/ Desenvolvedor @[BLP.IT](https://blpit.com.br/)
 
-- Jogador de video gaeme amador    ![](https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white")
-
 - 🌱 Analise e desenvolvimento de sistemas(1/6)
 
 - 👯 Apaixonado por desenvolvimento Web 
